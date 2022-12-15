@@ -30,7 +30,6 @@ public class ReadingReportService implements ConsumerService<User> {
         IO.append(target, "Created for " + user.getUuid());
 
         System.out.println("File created: " + target.getAbsolutePath());
-
     }
 
     @Override

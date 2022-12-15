@@ -29,8 +29,3 @@ public class MessageAdapter implements JsonSerializer<Message>, JsonDeserializer
         }
     }
 }
-
-
-
-
-

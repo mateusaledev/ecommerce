@@ -20,7 +20,6 @@ public class LocalDatabase {
             // be careful, the sql could be wrong, be reallllly careful
             ex.printStackTrace();
         }
-
     }
 
     public boolean update(String statement, String... params) throws SQLException {

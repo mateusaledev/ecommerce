@@ -73,7 +73,6 @@ public class FraudDetectorService implements ConsumerService<Order> {
                     message.getId().continueWith(FraudDetectorService.class.getSimpleName()),
                     order);
         }
-
     }
 
     private boolean wasProcessed(Order order) throws SQLException {
@@ -84,5 +83,4 @@ public class FraudDetectorService implements ConsumerService<Order> {
     private boolean isFraud(Order order) {
         return order.getAmount().compareTo(new BigDecimal("4500")) >= 0;
     }
-
 }

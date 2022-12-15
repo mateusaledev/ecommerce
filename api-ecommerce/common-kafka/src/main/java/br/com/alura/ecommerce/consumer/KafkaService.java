@@ -55,7 +55,6 @@ public class KafkaService<T> implements Closeable {
                 }
             }
         }
-
     }
 
     private Properties getProperties(String groupId, Map<String, String> overrideProperties) {

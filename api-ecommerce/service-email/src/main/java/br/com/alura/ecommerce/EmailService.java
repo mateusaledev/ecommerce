@@ -33,6 +33,4 @@ public class EmailService implements ConsumerService<String> {
         }
         System.out.println("Email sent");
     }
-
-
 }

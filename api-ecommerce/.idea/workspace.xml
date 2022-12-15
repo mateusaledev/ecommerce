@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="568d5a26-c942-4f6b-8c8f-2428d121d76c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="568d5a26-c942-4f6b-8c8f-2428d121d76c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-database/src/main/java/br/com/alura/ecommerce/database/LocalDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-database/src/main/java/br/com/alura/ecommerce/database/LocalDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/CorrelationId.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/CorrelationId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/MessageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/MessageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ConsumerFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ConsumerFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ConsumerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ConsumerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/GsonDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/GsonDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/KafkaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/KafkaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ServiceProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ServiceProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ServiceRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/consumer/ServiceRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/dispatcher/GsonSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/dispatcher/GsonSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/dispatcher/KafkaDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/com/alura/ecommerce/dispatcher/KafkaDispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-email-new-order/src/main/java/br/com/alura/ecommerce/EmailNewOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-email-new-order/src/main/java/br/com/alura/ecommerce/EmailNewOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-email-new-order/src/main/java/br/com/alura/ecommerce/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-email-new-order/src/main/java/br/com/alura/ecommerce/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-email/src/main/java/br/com/alura/ecommerce/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-email/src/main/java/br/com/alura/ecommerce/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-fraud-detector/src/main/java/br/com/alura/ecommerce/FraudDetectorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-fraud-detector/src/main/java/br/com/alura/ecommerce/FraudDetectorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-fraud-detector/src/main/java/br/com/alura/ecommerce/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-fraud-detector/src/main/java/br/com/alura/ecommerce/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-http-ecommerce/src/main/java/br/com/alura/ecommerce/GenerateAllReportsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-http-ecommerce/src/main/java/br/com/alura/ecommerce/GenerateAllReportsServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-http-ecommerce/src/main/java/br/com/alura/ecommerce/HttpEcommerceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-http-ecommerce/src/main/java/br/com/alura/ecommerce/HttpEcommerceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-http-ecommerce/src/main/java/br/com/alura/ecommerce/NewOrderServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-http-ecommerce/src/main/java/br/com/alura/ecommerce/NewOrderServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-http-ecommerce/src/main/java/br/com/alura/ecommerce/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-http-ecommerce/src/main/java/br/com/alura/ecommerce/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-log/src/main/java/br/com/alura/ecommerce/LogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-log/src/main/java/br/com/alura/ecommerce/LogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-new-order/src/main/java/br/com/alura/ecommerce/NewOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-new-order/src/main/java/br/com/alura/ecommerce/NewOrderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-new-order/src/main/java/br/com/alura/ecommerce/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-new-order/src/main/java/br/com/alura/ecommerce/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-reading-report/src/main/java/br/com/alura/ecommerce/IO.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-reading-report/src/main/java/br/com/alura/ecommerce/IO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-reading-report/src/main/java/br/com/alura/ecommerce/ReadingReportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-reading-report/src/main/java/br/com/alura/ecommerce/ReadingReportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-reading-report/src/main/java/br/com/alura/ecommerce/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-reading-report/src/main/java/br/com/alura/ecommerce/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-users/src/main/java/br/com/alura/ecommerce/BatchSendMessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-users/src/main/java/br/com/alura/ecommerce/BatchSendMessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-users/src/main/java/br/com/alura/ecommerce/CreateUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-users/src/main/java/br/com/alura/ecommerce/CreateUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-users/src/main/java/br/com/alura/ecommerce/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-users/src/main/java/br/com/alura/ecommerce/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-users/src/main/java/br/com/alura/ecommerce/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-users/src/main/java/br/com/alura/ecommerce/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,23 +54,26 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1TnBu170vTjhtIjJltLSiTF7ABr" />
-  <component name="PropertiesComponent">
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/service-email-new-order/src/main/java/br/com/alura/ecommerce" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/service-email-new-order/src/main/java" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/malex/OneDrive/Área de Trabalho/Projetos/ecommerce/api-ecommerce&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="br.com.alura.ecommerce" />
@@ -51,18 +92,6 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn package" />
-    </option>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
     </option>
   </component>
   <component name="RunManager" selected="Application.HttpEcommerceService">
@@ -179,6 +208,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -191,5 +221,16 @@
       <updated>1574086197053</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

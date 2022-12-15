@@ -26,7 +26,6 @@ public class EmailNewOrderService implements ConsumerService<Order> {
         var id = message.getId().continueWith(EmailNewOrderService.class.getSimpleName());
         emailDispatcher.send("ECOMMERCE_SEND_EMAIL", order.getEmail(),
                 id, emailCode);
-
     }
 
     @Override
@@ -38,5 +37,4 @@ public class EmailNewOrderService implements ConsumerService<Order> {
     public String getConsumerGroup() {
         return EmailNewOrderService.class.getSimpleName();
     }
-
 }

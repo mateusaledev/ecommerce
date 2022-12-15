@@ -47,11 +47,8 @@ public class NewOrderServlet extends HttpServlet {
                     resp.getWriter().println("Old order received");
                 }
             }
-
         } catch (InterruptedException | SQLException | ExecutionException e) {
             throw new ServletException(e);
         }
-
-
     }
 }

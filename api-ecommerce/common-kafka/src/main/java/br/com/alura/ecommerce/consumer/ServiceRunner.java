@@ -15,6 +15,5 @@ public class ServiceRunner<T> {
         for (int i = 0; i <= threadCount; i++) {
             pool.submit(provider);
         }
-
     }
 }

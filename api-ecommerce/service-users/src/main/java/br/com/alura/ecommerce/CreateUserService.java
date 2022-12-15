@@ -55,5 +55,4 @@ public class CreateUserService implements ConsumerService<Order> {
                 "where email = ? limit 1", email);
         return !results.next();
     }
-
 }
